@@ -1,0 +1,21 @@
+[toolchain]
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+ch11 = "63MozwycKrW4FRtRKvnxUJJozoX4FojXQZJfzkg7rPUm"
+cpi_a = "BervMk5R8vDWp7Kam9jvF9s5KrZUWURNvabX2Gbrv9NQ"
+cpi_b = "9Z2y7hBc2ZFzGroq3xkPnwC4KNZJqwivGmXceZecYwNd"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "npm test"

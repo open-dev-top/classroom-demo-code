@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                    // 编译目标 ES 版本
+    "module": "CommonJS",                  // 模块系统
+    "lib": ["ES2020"],                     // 包含的库文件
+    "outDir": "./dist",                    // 输出目录
+    "rootDir": "./src",                    // 源码目录
+    "strict": true,                        // 启用所有严格类型检查选项
+    "esModuleInterop": true,              // 启用 ES 模块互操作性
+    "skipLibCheck": true,                  // 跳过声明文件的类型检查
+    "forceConsistentCasingInFileNames": true, // 强制文件名大小写一致
+    "resolveJsonModule": true,             // 允许导入 JSON 模块
+    "removeComments": true,                // 删除注释
+    "sourceMap": true,                     // 生成 sourceMap
+    "baseUrl": ".",                        // 基础目录
+    "paths": {                             // 路径别名
+      "@/*": ["src/*"],
+      "@/components": ["src/components/*"],
+      "@/utils": ["src/utils/*"]
+    }
+  },
+  "include": ["src/**/*"],                 // 包含的文件
+  "exclude": ["node_modules", "dist"]      // 排除的文件
+} 
