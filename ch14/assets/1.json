@@ -1,0 +1,26 @@
+{
+  "name": "Noah's NFT #2",
+  "symbol": "NOAHNFT",
+  "description": "这是Noah的NFT系列中的第2号作品",
+  "seller_fee_basis_points": 500,
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "代币",
+      "value": "ETH"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "低"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

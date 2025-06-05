@@ -1,0 +1,6 @@
+[
+  {
+    "path": "assets/2.json",
+    "error": "invalid type: integer `1`, expected struct Attribute at line 8 column 0"
+  }
+]

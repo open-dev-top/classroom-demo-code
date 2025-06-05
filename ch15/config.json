@@ -1,0 +1,27 @@
+{
+  "number": 3,
+  "symbol": "NOAHNFT",
+  "isMutable": true,
+  "sellerFeeBasisPoints": 500,
+  "creators": [
+    {
+      "address": "CxxFeBpnfaF4a4x6iPBEy9uTFMJ2R8UFRqv2hUsNndyz",
+      "share": 100
+    }
+  ],
+  "network": "devnet",
+  "uploadMethod": "bundlr",
+  "isSequential": false,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 1,
+        "destination": "DL4geyEgKjmdF56QrrGT3hYbAMVgduyTazAf7UHd5XRB"
+      },
+      "startDate": {
+        "date": "2025-04-22T00:00:00Z"
+      }
+    }
+  },
+  "ruleSet": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Noah的NFT系列",
+  "symbol": "NOAHNFT",
+  "description": "这是Noah创建的NFT系列，包含3个独特的数字艺术品",
+  "seller_fee_basis_points": 500,
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

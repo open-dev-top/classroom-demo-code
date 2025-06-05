@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "4zpY9Xmc9f7By7aPgZ61qrw8DQrx1QZC4q2unyzfBhUr",
+    "candyGuard": "4Z5dsP6h7PF7qiAs2k1QHMGGRHDS58m4eEG4bVTWPG64",
+    "candyMachineCreator": "C8nFVHejEXgVqhs53f8jCZKYz4dh94cwMJ4GxS6iugTR",
+    "collectionMint": "5EECFqhVRagYeUFphJvHkCZpsZ5BfmcfBfurmEZAumqX"
+  },
+  "items": {
+    "-1": {
+      "name": "Noah的NFT系列",
+      "image_hash": "1c1e7711469b53d6507a697ca82eda42d5c5c72f4cedc0ff1c5a597252800228",
+      "image_link": "https://gateway.irys.xyz/HnXbpoC8xUaVXMF5dgcnWm6hfKFhhe5DmmhbqBdtBMLk?ext=png",
+      "metadata_hash": "4f3564e9f638d76cb444404caba667f949aa485dbda7cd7d19d5dc9e54386d8e",
+      "metadata_link": "https://gateway.irys.xyz/BLUhLc8eeMsyJGiPHHpjpqQ3fMSm1nsZrmj1oAnh5s5J",
+      "onChain": true
+    },
+    "0": {
+      "name": "Noah's NFT #1",
+      "image_hash": "b3f20cdaba5c606d059e0cb57d088283a1bba11d367a3b083ff4108956819940",
+      "image_link": "https://gateway.irys.xyz/WUzciHcLsJjPX7T7DL7jka82K1svmDrfrjLnTkvgmgm?ext=png",
+      "metadata_hash": "e82d140758368b4b190f02ced718b0d643359830abbc03d329030146af0abfd2",
+      "metadata_link": "https://gateway.irys.xyz/6zyYYhTKZifaTzCnFkWw8BfPumgMGjUNypKdVU5cfCY",
+      "onChain": true
+    },
+    "1": {
+      "name": "Noah's NFT #2",
+      "image_hash": "7f400a9b163d5167fd737d2e92684349e9e937d9f3518dd78c7abb553b1b14df",
+      "image_link": "https://gateway.irys.xyz/9ccn4951FiCVNLbKeSK84qcnqV8zbiGmhZnukBudZTwS?ext=png",
+      "metadata_hash": "9e55a08a1fba64391c793624617fd3ef480cea9ecacc5333fcdc976d5c477e42",
+      "metadata_link": "https://gateway.irys.xyz/B3W66vwb4zthbr6th35XWBbEFUabCPoLVz2BfgRZy4Ap",
+      "onChain": true
+    },
+    "2": {
+      "name": "Noah's NFT #3",
+      "image_hash": "1299385c123dd5ff61747b3d16986d9a32722664611f983756d4ed78fbf26880",
+      "image_link": "https://gateway.irys.xyz/FpXPwN7euCjx1WmaRhbYW2WjGqLfzwikzrkR1UfL3NFL?ext=png",
+      "metadata_hash": "c5aebdcae1de06dc1fbf0b603453dc6a091cd34e7d2550c059afaacbdbcb3a1e",
+      "metadata_link": "https://gateway.irys.xyz/GPk3ttfR8XxAEUa9NdHBnUKtyu5dyUigPjBbKssAy8F4",
+      "onChain": true
+    }
+  }
+}

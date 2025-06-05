@@ -1,0 +1,26 @@
+{
+  "name": "Noah's NFT #3",
+  "symbol": "NOAHNFT",
+  "description": "这是Noah的NFT系列中的第3号作品",
+  "seller_fee_basis_points": 500,
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "代币",
+      "value": "SOL"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "中"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

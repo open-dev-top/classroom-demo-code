@@ -1,5 +1,6 @@
 test-ledger
 my_test
+my_test/*
 .DS_Store
 
 node_modules
@@ -13,4 +14,3 @@ build
 .anchor
 .yarn
 Cargo.lock
-
